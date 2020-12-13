@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at Ravik27280@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1DpccLWT47VUWC_EY5RklEaAbD73owZAg/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,12 +24,12 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)\
+![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ravik27280&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravik27280&layout=compact&exclude_lang=java+r&theme=vue-dark" />
@@ -42,3 +42,5 @@
 <a href="https://www.linkedin.com/in/ravik27280/"><img src="https://img.shields.io/endpoint?label=Ravi%20Vishwakarma&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fravik27280%2F"/></a>
 
 </p>
+
+
