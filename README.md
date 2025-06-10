@@ -65,6 +65,7 @@
 - ☁️ **Focus Areas**: AWS cloud infra, serverless architectures, scalable backend services
 - 🔁 **CI/CD**: Experience with **Jenkins**, **Terraform**, **CloudFormation**, and **GitHub Actions**
 - 🌍 **Portfolio**: [portfolio-alpha-nine-22.vercel.app](https://portfolio-alpha-nine-22.vercel.app)
+- 📄 Check out my [Résumé](https://drive.google.com/file/d/1LgfHQxkVXsaGTaH8ghUZNOK_JHAvcWjt/view?usp=sharing)
 
 ---
 
