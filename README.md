@@ -1,46 +1,68 @@
-## 👋 &nbsp;Hey there! I'm Ravi Kumar
+## 👋 Hello there! I'm Ravi Kumar
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🧑‍💻 About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying electronics and communication engineering at KIET group of institutions Ghaziabad.\
-🌱 &nbsp;I'm on track for learning more about Augmanted reality, virtual reality, mixxed reality etc..\
-✍️ &nbsp;In my free time, I pursue photography and photo editing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at Ravik27280@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1PLqw5Ny1A1iN1QVjgIty8eSNYAYsMhmD/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+I'm a passionate **Electronics & Communication Engineering** student at **KIET Group of Institutions, Ghaziabad**, with a curious mind that loves to blend hardware with software.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+🔍 I enjoy diving into **emerging tech** — whether it’s crafting **quick hacks**, building **AR/VR/MR experiences**, or experimenting with creative digital tools.
 
-### 🛠 &nbsp;Tech Stack
+📷 Beyond code, you'll often find me behind the lens or editing visuals — **photography and photo editing** are my creative escapes.
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+🧠 I'm always up for learning, collaborating, or even just having deep conversations about tech, creativity, or life.
 
+📬 Reach out for **pro bono collaborations, tech talks**, or **just to say hi** — I’m all ears!
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/Ravik27280">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ravik27280&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravik27280&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
+- ✉️ Email: [Ravik27280@gmail.com](mailto:Ravik27280@gmail.com)  
+- 📄 Check out my [Résumé](https://drive.google.com/file/d/1PLqw5Ny1A1iN1QVjgIty8eSNYAYsMhmD/view?usp=sharing)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ravik27280/"><img src="https://img.shields.io/endpoint?label=Ravi%20Vishwakarma&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fravik27280%2F"/></a>
-
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" />
 </p>
 
+---
+
+### 🚀 Tech Stack & Tools
+
+**Languages & Hardware:**
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+
+**Development & Version Control:**
+
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+**Design & CMS:**
+
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ravik27280&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravik27280&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</p>
+
+---
+
+### 🤝 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravik27280/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ravi%20Vishwakarma-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+</p>
+
+---
+
+*“Creativity is intelligence having fun.” – Albert Einstein*
 
